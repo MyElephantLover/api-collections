@@ -1,0 +1,5 @@
+.env
+*.db
+
+# Optional sensitive Insomnia envs
+.insomnia/Environment/*
